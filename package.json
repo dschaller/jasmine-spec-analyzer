@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-spec-analyzer",
+  "version": "0.0.0",
+  "description": "Analyzer for Jasmine specs",
+  "main": "src/jasmine-spec-analyzer.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dschaller/jasmine-spec-analyzer.git"
+  },
+  "keywords": [
+    "jasmine-spec-analyzer",
+    "jasmine",
+    "spec",
+    "analyzer"
+  ],
+  "author": "Derek Schaller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dschaller/jasmine-spec-analyzer/issues"
+  },
+  "homepage": "https://github.com/dschaller/jasmine-spec-analyzer#readme"
+}
