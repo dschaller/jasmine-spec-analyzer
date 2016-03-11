@@ -1,5 +1,5 @@
 var Analyzer = function (analyzers) {
-    this.analyzers = analyzerts
+    this.analyzers = analyzers;
 }
 
 Analyzer.prototype = {
